@@ -1,4 +1,5 @@
 ### 你好鸭！ 👋
+</details>
 <a target="_blank" href="https://space.bilibili.com/388731488/"><img src="https://img.shields.io/badge/dynamic/json?style=flat-
     
 ![About me](https://github-readme-stats.vercel.app/api?username=mmyo456&show_icons=true&show_icons=true)
