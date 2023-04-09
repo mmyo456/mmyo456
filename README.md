@@ -6,7 +6,7 @@
     
 ![About me](https://github-readme-stats.vercel.app/api?username=mmyo456&show_icons=true&theme=dracula)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mmyo456&layout=compact)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mmyo456)
 ### 计数
 
 [![](https://count.getloli.com/get/@mmyo456?theme=rule34)](http://count.getloli.com/)
