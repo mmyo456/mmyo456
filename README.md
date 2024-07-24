@@ -9,3 +9,10 @@
 ### 计数
 
 [![](https://count.getloli.com/get/@mmyo456?theme=rule34)](http://count.getloli.com/)
+### 操作环境
+[![](https://img.shields.io/badge/Windows-10-33AADD?style=flat-square&logo=windows&logoColor=6cf)](https://www.microsoft.com/windows/get-windows-10)
+[![](https://img.shields.io/badge/Windows-11-33AADD?style=flat-square&logo=microsoft&logoColor=6cf)](https://www.microsoft.com/windows/get-windows-11)
+[![](https://img.shields.io/badge/IDE-Visual%20Studio%20Code-33AADD?style=flat-square&logo=visual-studio-code&logoColor=6cf)](https://code.visualstudio.com/)
+
+[![](https://img.shields.io/badge/CMF%20Phone-1-black?style=flat-square&logo=android&logoColor=golden)](https://cmf.tech/)
+[![](https://img.shields.io/badge/NothingOS-2.6-167C80?style=flat-square&logoColor=white)](nothing.tech)
