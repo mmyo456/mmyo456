@@ -18,4 +18,5 @@
 [![](https://img.shields.io/badge/IOS-18%20Bata4-167C80?style=flat-square&logoColor=white)](https://apple.com/)
 
 [![](https://img.shields.io/badge/CMF%20Phone-1-black?style=flat-square&logo=android&logoColor=golden)](https://cmf.tech/)
-[![](https://img.shields.io/badge/NothingOS-2.6-167C80?style=flat-square&logoColor=white)](nothing.tech)
+[![](https://img.shields.io/badge/OS-Android14-green?style=flat-square&logo=android)](https://www.android.com/)
+[![](https://img.shields.io/badge/NothingOS-2.6-167C80?style=flat-square&logoColor=white)](https://nothing.tech)
