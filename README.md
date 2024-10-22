@@ -15,7 +15,7 @@
 [![](https://img.shields.io/badge/IDE-Visual%20Studio%20Code-33AADD?style=flat-square&logo=visual-studio-code&logoColor=6cf)](https://code.visualstudio.com/)
 
 [![](https://img.shields.io/badge/iPhone%2015%20Pro%20-Max-black?style=flat-square&logo=ios&logoColor=golden)](https://apple.com/)
-[![](https://img.shields.io/badge/iPad mini%206-black?style=flat-square&logo=ios&logoColor=golden)](https://apple.com/)
+[![](https://img.shields.io/badge/iPhone%2015%20Pro%20-Max-black?style=flat-square&logo=ios&logoColor=golden)](https://apple.com/)
 [![](https://img.shields.io/badge/IOS-18.1%20RC-167C80?style=flat-square&logoColor=white)](https://beta.apple.com/)
 
 [![](https://img.shields.io/badge/CMF%20Phone-1-black?style=flat-square&logo=android&logoColor=golden)](https://cmf.tech/)
