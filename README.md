@@ -21,7 +21,7 @@
 
 [![](https://img.shields.io/badge/iPhone%2015%20Pro%20-Max-black?style=flat-square&logo=ios&logoColor=golden)](https://apple.com/)
 [![](https://img.shields.io/badge/iPad%20mini%206-black?style=flat-square&logo=ios&logoColor=golden)](https://apple.com/)
-[![](https://img.shields.io/badge/IOS-18.2%20Bata3-167C80?style=flat-square&logoColor=white)](https://beta.apple.com/)
+[![](https://img.shields.io/badge/IOS-18.2%20Bata4-167C80?style=flat-square&logoColor=white)](https://beta.apple.com/)
 
 [![](https://img.shields.io/badge/CMF%20Phone-1-black?style=flat-square&logo=android&logoColor=golden)](https://cmf.tech/)
 [![](https://img.shields.io/badge/OS-Android14-green?style=flat-square&logo=android)](https://www.android.com/)
