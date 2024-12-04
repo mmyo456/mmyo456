@@ -4,7 +4,6 @@
 <p align="center">
   <a target="_blank" href="https://space.bilibili.com/388731488/">
   <img src="https://img.shields.io/badge/dynamic/json?style=flat-square&logo=bilibili&label=Bilibili&query=$.data.follower&url=https://api.bilibili.com/x/relation/stat?vmid=388731488"/>
-    <a target="_blank" href="https://steamcommunity.com/id/mmyo456"><img src="https://img.shields.io/badge/Steam-232361?logo=Steam&style=flat-square" /></a> 
 </p>
 <!-- <img align='right' src='https://i.ouo.chat/favicon.ico' width='300px'> -->
     
