@@ -8,7 +8,7 @@
 </p>
 
     
-<img align='right' src='https://cdn.jsdelivr.net/gh/mmyo456/mmyo456@main/DLC6.gif' width='300px'>
+<img align='right' src='https://cdn.jsdelivr.net/gh/mmyo456/mmyo456@main/DLC6.gif' width='200px'>
     
 ![About me](https://github-readme-stats.vercel.app/api?username=mmyo456&show_icons=true&theme=ambient_gradient&locale=cn)<br> 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mmyo456&show_icons=true&theme=ambient_gradient&locale=cn)
