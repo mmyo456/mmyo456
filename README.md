@@ -6,7 +6,7 @@
   <img src="https://img.shields.io/badge/dynamic/json?style=flat-square&logo=bilibili&label=Bilibili&query=$.data.follower&url=https://api.bilibili.com/x/relation/stat?vmid=388731488"/>
         <a target="_blank" href="https://steamcommunity.com/id/mmyo456"><img src="https://img.shields.io/badge/Steam-232361?logo=Steam&style=flat-square"></a>
 </p>
-<img align='right' src='https://cdn.jsdelivr.net/gh/mmyo456/mmyo456@main/DLC6.gif' width='300px'>
+<img align='right' src='https://cdn.jsdelivr.net/gh/mmyo456/mmyo456@main/DLC6.gif' width='350px'>
     
 ![About me](https://github-readme-stats.vercel.app/api?username=mmyo456&show_icons=true&theme=ambient_gradient&locale=cn)<br> 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mmyo456&show_icons=true&theme=ambient_gradient&locale=cn)
