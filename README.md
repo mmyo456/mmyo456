@@ -3,7 +3,7 @@
 <p align="center">
   <!-- Bilibili 粉丝数量徽章 -->
   <a target="_blank" href="https://space.bilibili.com/388731488/">
-    <img src="https://img.shields.io/badge/dynamic/json?style=flat-square&logo=bilibili&label=Bilibili%20Fans&query=$.data.follower&url=https://api.bilibili.com/x/relation/stat?vmid=388731488" alt="Bilibili Followers">
+    <img src="https://img.shields.io/badge/dynamic/json?style=flat-square&logo=bilibili&label=Bilibili&query=$.data.follower&url=https://api.bilibili.com/x/relation/stat?vmid=388731488" alt="Bilibili Followers">
   </a>
 
   <!-- Steam 个人资料徽章 -->
