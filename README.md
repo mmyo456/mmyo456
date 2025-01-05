@@ -15,7 +15,6 @@
 
 ---
 
-### 关于我
 
 ![About me](https://github-readme-stats.vercel.app/api?username=mmyo456&show_icons=true&theme=ambient_gradient&locale=cn)  
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mmyo456&show_icons=true&theme=ambient_gradient&locale=cn)  
