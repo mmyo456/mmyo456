@@ -1,5 +1,5 @@
 ### 你好鸭！ 👋
-想做点有意义的事情...
+开心！
 <p align="center">
   <a target="_blank" href="https://space.bilibili.com/388731488/">
     <img src="https://img.shields.io/badge/dynamic/json?style=flat-square&logo=bilibili&label=Bilibili&query=$.data.follower&url=https://api.bilibili.com/x/relation/stat?vmid=388731488" alt="Bilibili Followers" style="margin-right: 10px;">
