@@ -17,7 +17,7 @@
 [![trophy](https://github-profile-trophy.vercel.app/?username=mmyo456)](https://github.com/ryo-ma/github-profile-trophy)
 ### 计数
 
-[![](https://count.getloli.com/get/@mmyo456?theme=rule34)](http://count.getloli.com/)
+[![](https://count.getloli.com/@mmyo456?name=mmyo456&theme=moebooru&padding=7&offset=1&align=top&scale=1.4&pixelated=1&darkmode=auto)](http://count.getloli.com/)
 ### 操作环境
 [![](https://img.shields.io/badge/Windows-10-33AADD?style=flat-square&logo=windows&logoColor=6cf)](https://www.microsoft.com/windows/get-windows-10)
 [![](https://img.shields.io/badge/Windows-11-33AADD?style=flat-square&logo=microsoft&logoColor=6cf)](https://www.microsoft.com/windows/get-windows-11)
