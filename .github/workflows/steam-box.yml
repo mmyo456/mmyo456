@@ -7,7 +7,7 @@ on:
     branches: [master]
   workflow_dispatch:
   schedule:
-    - cron: "5 0 * * *"
+    - cron: "10 * * * *"
 
 jobs:
   build:
@@ -18,9 +18,8 @@ jobs:
       GIST_ID: ae1e4c155e94115c1fb4d2f0a05a3d95
       STEAM_API_KEY: ${{ secrets.STEAM_API_KEY }}
       STEAM_ID: ${{ secrets.STEAM_ID }}
-      UPDATE_OPTION: MARKDOWN
+      UPDATE_OPTION: GIST_AND_MARKDOWN
       MARKDOWN_FILE: README.md
-      STEAM_OPTION: RECENT
 
     steps:
       - name: Set up Go 1.x
@@ -36,10 +35,11 @@ jobs:
           git clone https://github.com/YouEclipse/steam-box.git 
           cd steam-box && go build -o steam ./cmd/box/main.go
           mv ./steam ../ && cd .. && rm -rf steam-box/
+
       - name: Commit and push
         run: |-
           ./steam
-          git config --global user.email "bot@github.com" && git config --global user.name "Steam-Bot" && git config --global pull.rebase false
+          git config --global user.email "bot@github.com" && git config --global user.name "Steam-Bot"
           git diff
           git add README.md && git commit -m ":memo: update profile" || exit 0
           git pull && git push
