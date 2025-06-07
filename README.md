@@ -18,13 +18,13 @@
 ### Steam
 
 <!-- steam-box start -->
-🎮 Recently played Steam games
+#### <a href="https://gist.github.com/ae1e4c155e94115c1fb4d2f0a05a3d95" target="_blank">🎮 Steam playtime leaderboard</a>
 ```text
 🎮 VRChat                           🕘 11239 hrs 56 mins
-🎮 Blender                          🕘 131 hrs 4 mins
-🎮 JDM: Japanese Drift Master       🕘 12 hrs 42 mins
-🎮 Space Calibrator                 🕘 497 hrs 25 mins
-🎮 VRHandsFrame                     🕘 527 hrs 39 mins
+🎮 OVR Advanced Settings            🕘 5067 hrs 18 mins
+🎮 OVR Toolkit                      🕘 1989 hrs 5 mins
+🚓 Grand Theft Auto V Legacy        🕘 1476 hrs 54 mins
+🎮 XSOverlay                        🕘 1405 hrs 34 mins
 ```
 <!-- Powered by https://github.com/YouEclipse/steam-box . -->
 <!-- steam-box end -->
