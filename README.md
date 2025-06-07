@@ -17,8 +17,16 @@
 [![trophy](https://github-profile-trophy.vercel.app/?username=mmyo456)](https://github.com/ryo-ma/github-profile-trophy)
 ### Steam
 
-    <!-- steam-box start -->
-    <!-- steam-box end -->
+<!-- steam-box start -->
+🎮 Steam playtime leaderboard
+```text
+🎮 VRChat                           🕘 11239 hrs 56 mins
+🎮 OVR Advanced Settings            🕘 5067 hrs 18 mins
+🎮 OVR Toolkit                      🕘 1989 hrs 5 mins
+🚓 Grand Theft Auto V Legacy        🕘 1476 hrs 54 mins
+```
+<!-- Powered by https://github.com/YouEclipse/steam-box . -->
+<!-- steam-box end -->
  
 ### 计数
 
