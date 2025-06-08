@@ -22,31 +22,24 @@ jobs:
       MARKDOWN_FILE: README.md
 
     steps:
-      - name: Check out repo
-        uses: actions/checkout@v2
-
-      - name: Set up Go
+      - name: Set up Go 1.x
         uses: actions/setup-go@v2
         with:
           go-version: ^1.14
-
+        id: go
+      - name: Check out repo
+        uses: actions/checkout@v2
+      - uses: actions/setup-go@v2
       - name: Clone and run steam-box
-        run: |
-          git clone https://github.com/YouEclipse/steam-box.git
-          cd steam-box
-          go build -o steam ./cmd/box/main.go
-          mv ./steam ../
-          cd ..
-          rm -rf steam-box/
+        run: |-
+          git clone https://github.com/YouEclipse/steam-box.git 
+          cd steam-box && go build -o steam ./cmd/box/main.go
+          mv ./steam ../ && cd .. && rm -rf steam-box/
 
       - name: Commit and push
-        run: |
+        run: |-
           ./steam
-          git config --global user.email "bot@github.com"
-          git config --global user.name "Steam-Bot"
-          git diff --quiet || {
-            git add README.md
-            git commit -m ":memo: update profile" || true
-            git pull --rebase
-            git push
-          }
+          git config --global user.email "bot@github.com" && git config --global user.name "Steam-Bot"
+          git diff
+          git add README.md && git commit -m ":memo: update profile" || exit 0
+          git pull && git push
