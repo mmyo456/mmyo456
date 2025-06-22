@@ -5,8 +5,6 @@
 
 我非常的菜，已经菜的不能再菜了
 
----
-
 <p align="center">
   <a target="_blank" href="https://space.bilibili.com/388731488/">
     <img src="https://img.shields.io/badge/dynamic/json?style=flat-square&logo=bilibili&label=Bilibili&query=$.data.follower&url=https://api.bilibili.com/x/relation/stat?vmid=388731488" alt="Bilibili Followers">
@@ -15,7 +13,9 @@
     <img src="https://img.shields.io/badge/Steam-232361?logo=Steam&style=flat-square" alt="Steam Profile">
   </a>
 </p>
-    
+
+---
+
 <img align='right' src='https://cdn.jsdelivr.net/gh/mmyo456/mmyo456@main/DLC6.gif' width='200px'>
     
 ![About me](https://github-readme-stats.vercel.app/api?username=mmyo456&show_icons=true&theme=ambient_gradient&locale=cn)<br> 
