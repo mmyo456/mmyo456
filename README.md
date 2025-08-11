@@ -5,6 +5,8 @@
 
 我非常的菜，已经菜的不能再菜了
 
+<a href="https://vrchat.com/home/user/usr_1e117071-e4e4-4dfd-83ac-ca98cb334ea0" target="_blank">鸭鸭的VRC</a>
+
 <p align="center">
   <a target="_blank" href="https://space.bilibili.com/388731488/">
     <img src="https://img.shields.io/badge/dynamic/json?style=flat-square&logo=bilibili&label=Bilibili&query=$.data.follower&url=https://api.bilibili.com/x/relation/stat?vmid=388731488" alt="Bilibili Followers">
