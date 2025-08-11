@@ -31,10 +31,10 @@
 <!-- steam-box start -->
 #### <a href="https://gist.github.com/ae1e4c155e94115c1fb4d2f0a05a3d95" target="_blank">🎮 Steam playtime leaderboard</a>
 ```text
-🎮 VRChat                           🕘 12733 hrs 22 mins
-🎮 OVR Advanced Settings            🕘 5197 hrs 53 mins
+🎮 VRChat                           🕘 12743 hrs 35 mins
+🎮 OVR Advanced Settings            🕘 5208 hrs 5 mins
 🎮 OVR Toolkit                      🕘 1989 hrs 5 mins
-🎮 XSOverlay                        🕘 1536 hrs 7 mins
+🎮 XSOverlay                        🕘 1546 hrs 20 mins
 🚓 Grand Theft Auto V Legacy        🕘 1476 hrs 54 mins
 ```
 <!-- Powered by https://github.com/YouEclipse/steam-box . -->
