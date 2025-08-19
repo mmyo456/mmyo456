@@ -31,7 +31,7 @@
 <!-- steam-box start -->
 #### <a href="https://gist.github.com/ae1e4c155e94115c1fb4d2f0a05a3d95" target="_blank">🎮 Steam playtime leaderboard</a>
 ```text
-🎮 VRChat                           🕘 12890 hrs 25 mins
+🎮 VRChat                           🕘 12913 hrs 37 mins
 🎮 OVR Advanced Settings            🕘 5270 hrs 21 mins
 🎮 OVR Toolkit                      🕘 1989 hrs 5 mins
 🎮 XSOverlay                        🕘 1608 hrs 35 mins
