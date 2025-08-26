@@ -29,13 +29,13 @@
 ### Steam
 
 <!-- steam-box start -->
-#### <a href="https://gist.github.com/ae1e4c155e94115c1fb4d2f0a05a3d95" target="_blank">🎮 Steam playtime leaderboard</a>
+🎮 Recently played Steam games
 ```text
-🎮 VRChat                           🕘 13081 hrs 33 mins
-🎮 OVR Advanced Settings            🕘 5274 hrs 26 mins
-🎮 OVR Toolkit                      🕘 1989 hrs 5 mins
-🎮 XSOverlay                        🕘 1612 hrs 40 mins
-🚓 Grand Theft Auto V Legacy        🕘 1476 hrs 54 mins
+🎮 VRChat                           🕘 13091 hrs 8 mins
+🎮 Bongo Cat                        🕘 156 hrs 18 mins
+🎮 SteamVR                          🕘 6418 hrs 44 mins
+🎮 OBS Studio                       🕘 431 hrs 45 mins
+🎮 VRHandsFrame                     🕘 734 hrs 46 mins
 ```
 <!-- Powered by https://github.com/YouEclipse/steam-box . -->
 <!-- steam-box end -->
