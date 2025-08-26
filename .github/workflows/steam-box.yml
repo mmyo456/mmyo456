@@ -5,9 +5,8 @@ on:
     branches: [master]
   pull_request:
     branches: [master]
-  workflow_dispatch:
   schedule:
-    - cron: '5 0 * * *' 
+    - cron: "5 0 * * *"
 
 jobs:
   build:
@@ -15,11 +14,12 @@ jobs:
     runs-on: ubuntu-latest
     env:
       GH_TOKEN: ${{ secrets.GH_TOKEN }}
-      GIST_ID: ae1e4c155e94115c1fb4d2f0a05a3d95
+      GIST_ID: f84e1972acc138544321483c2452a158
       STEAM_API_KEY: ${{ secrets.STEAM_API_KEY }}
       STEAM_ID: ${{ secrets.STEAM_ID }}
-      UPDATE_OPTION: GIST_AND_MARKDOWN
+      UPDATE_OPTION: MARKDOWN
       MARKDOWN_FILE: README.md
+      STEAM_OPTION: RECENT
 
     steps:
       - name: Set up Go 1.x
@@ -35,7 +35,6 @@ jobs:
           git clone https://github.com/YouEclipse/steam-box.git 
           cd steam-box && go build -o steam ./cmd/box/main.go
           mv ./steam ../ && cd .. && rm -rf steam-box/
-
       - name: Commit and push
         run: |-
           ./steam
