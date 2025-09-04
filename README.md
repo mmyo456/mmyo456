@@ -31,11 +31,11 @@
 <!-- steam-box start -->
 🎮 Recently played Steam games
 ```text
-🎮 VRChat                           🕘 13268 hrs 33 mins
-🎮 Bongo Cat                        🕘 297 hrs 52 mins
-🎮 SteamVR                          🕘 6512 hrs 29 mins
-🎮 VRHandsFrame                     🕘 818 hrs 14 mins
-🎮 OVR Advanced Settings            🕘 5357 hrs 53 mins
+🎮 VRChat                           🕘 13291 hrs 53 mins
+🎮 Bongo Cat                        🕘 318 hrs 53 mins
+🎮 SteamVR                          🕘 6531 hrs 59 mins
+🎮 VRHandsFrame                     🕘 837 hrs 43 mins
+🎮 Space Calibrator                 🕘 807 hrs 27 mins
 ```
 <!-- Powered by https://github.com/YouEclipse/steam-box . -->
 <!-- steam-box end -->
