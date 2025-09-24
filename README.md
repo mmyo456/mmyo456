@@ -31,7 +31,7 @@
 <!-- steam-box start -->
 🎮 Recently played Steam games
 ```text
-🎮 VRChat                           🕘 13722 hrs 11 mins
+🎮 VRChat                           🕘 13744 hrs 51 mins
 🎮 Bongo Cat                        🕘 446 hrs 30 mins
 🎮 SteamVR                          🕘 6592 hrs 52 mins
 🎮 Space Calibrator                 🕘 819 hrs 22 mins
