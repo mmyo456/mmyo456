@@ -31,10 +31,9 @@
 <!-- steam-box start -->
 🎮 Recently played Steam games
 ```text
-🎮 VRChat                           🕘 13768 hrs 57 mins
+🎮 VRChat                           🕘 13792 hrs 40 mins
+🎮 SteamVR                          🕘 6635 hrs 50 mins
 🎮 Bongo Cat                        🕘 446 hrs 30 mins
-🎮 SteamVR                          🕘 6612 hrs 8 mins
-🎮 Cities: Skylines                 🕘 3 hrs 21 mins
 🎮 JDM: Japanese Drift Master       🕘 13 hrs 43 mins
 ```
 <!-- Powered by https://github.com/YouEclipse/steam-box . -->
