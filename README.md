@@ -31,9 +31,8 @@
 <!-- steam-box start -->
 🎮 Recently played Steam games
 ```text
-🎮 VRChat                           🕘 13811 hrs 36 mins
-🎮 SteamVR                          🕘 6655 hrs 11 mins
-🎮 Bongo Cat                        🕘 446 hrs 30 mins
+🎮 VRChat                           🕘 13835 hrs 50 mins
+🎮 SteamVR                          🕘 6668 hrs 50 mins
 🎮 Tokyo Xtreme Racer               🕘 34 hrs 5 mins
 🎮 JDM: Japanese Drift Master       🕘 13 hrs 43 mins
 ```
