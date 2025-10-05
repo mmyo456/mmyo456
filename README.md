@@ -31,11 +31,11 @@
 <!-- steam-box start -->
 🎮 Recently played Steam games
 ```text
-🎮 VRChat                           🕘 13973 hrs 12 mins
-🎮 SteamVR                          🕘 6686 hrs 34 mins
-🎮 Tokyo Xtreme Racer               🕘 34 hrs 54 mins
-🎮 JDM: Japanese Drift Master       🕘 15 hrs 55 mins
-🎮 VTube Studio                     🕘 4 hrs 41 mins
+🎮 VRChat                           🕘 13996 hrs 49 mins
+🎮 SteamVR                          🕘 6695 hrs 59 mins
+🎮 VRHandsFrame                     🕘 859 hrs 13 mins
+🎮 XSOverlay                        🕘 1736 hrs 52 mins
+🎮 OVR Advanced Settings            🕘 5398 hrs 39 mins
 ```
 <!-- Powered by https://github.com/YouEclipse/steam-box . -->
 <!-- steam-box end -->
