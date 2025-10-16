@@ -31,7 +31,7 @@
 <!-- steam-box start -->
 🎮 Recently played Steam games
 ```text
-🎮 VRChat                           🕘 14216 hrs 25 mins
+🎮 VRChat                           🕘 14239 hrs 4 mins
 🎮 SteamVR                          🕘 6766 hrs 6 mins
 🎮 Space Calibrator                 🕘 845 hrs 46 mins
 🎮 VRHandsFrame                     🕘 876 hrs 16 mins
