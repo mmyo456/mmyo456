@@ -59,6 +59,6 @@
 
 [![](https://img.shields.io/badge/CMF%20Phone-1-black?style=flat-square&logo=android&logoColor=golden)](https://cmf.tech/)
 [![](https://img.shields.io/badge/OS-Android15-green?style=flat-square&logo=android)](https://www.android.com/)
-[![](https://img.shields.io/badge/NothingOS-3.0-167C80?style=flat-square&logoColor=white)](https://nothing.tech)
+[![](https://img.shields.io/badge/NothingOS-3.2-167C80?style=flat-square&logoColor=white)](https://nothing.tech)
 
 ---
