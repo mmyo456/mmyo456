@@ -31,7 +31,7 @@
 <!-- steam-box start -->
 🎮 Recently played Steam games
 ```text
-🎮 VRChat                           🕘 15446 hrs 12 mins
+🎮 VRChat                           🕘 15470 hrs 29 mins
 🎮 SteamVR                          🕘 7042 hrs 32 mins
 🎮 Grand Theft Auto IV: The Complete Edition 🕘 37 hrs 49 mins
 🎮 XSOverlay                        🕘 1799 hrs 59 mins
