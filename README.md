@@ -29,10 +29,10 @@
 <!-- steam-box start -->
 🎮 Recently played Steam games
 ```text
-🎮 VRChat                           🕘 15538 hrs 43 mins
-🎮 SteamVR                          🕘 7054 hrs 59 mins
+🎮 VRChat                           🕘 15557 hrs 29 mins
+🎮 SteamVR                          🕘 7055 hrs 5 mins
 🎮 Grand Theft Auto IV: The Complete Edition 🕘 37 hrs 49 mins
-🎮 Grand Theft Auto V Enhanced      🕘 64 hrs 8 mins
+🎮 Grand Theft Auto V Enhanced      🕘 69 hrs 41 mins
 🎮 OBS Studio                       🕘 461 hrs 47 mins
 ```
 <!-- Powered by https://github.com/YouEclipse/steam-box . -->
