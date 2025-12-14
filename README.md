@@ -5,8 +5,6 @@
 
 我非常的菜，已经菜的不能再菜了
 
-#### <a href="https://vrchat.com/home/user/usr_1e117071-e4e4-4dfd-83ac-ca98cb334ea0" target="_blank">鸭鸭的VRC</a>
-
 <p align="center">
   <a target="_blank" href="https://space.bilibili.com/388731488/">
     <img src="https://img.shields.io/badge/dynamic/json?style=flat-square&logo=bilibili&label=Bilibili&query=$.data.follower&url=https://api.bilibili.com/x/relation/stat?vmid=388731488" alt="Bilibili Followers">
@@ -55,7 +53,7 @@
 
 [![](https://img.shields.io/badge/iPhone%2015%20Pro%20-Max-black?style=flat-square&logo=apple&logoColor=golden)](https://apple.com/)
 [![](https://img.shields.io/badge/iPad%20mini%206-black?style=flat-square&logo=apple&logoColor=golden)](https://apple.com/)
-[![](https://img.shields.io/badge/-26%20.2Bata2-167C80?style=flat-square&logo=ios)](https://beta.apple.com/)
+[![](https://img.shields.io/badge/-26%20.1-167C80?style=flat-square&logo=ios)](https://beta.apple.com/)
 
 [![](https://img.shields.io/badge/CMF%20Phone-1-black?style=flat-square&logo=android&logoColor=golden)](https://cmf.tech/)
 [![](https://img.shields.io/badge/OS-Android15-green?style=flat-square&logo=android)](https://www.android.com/)
