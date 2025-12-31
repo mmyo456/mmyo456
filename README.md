@@ -29,8 +29,8 @@
 <!-- steam-box start -->
 🎮 Recently played Steam games
 ```text
-🎮 VRChat                           🕘 15865 hrs 6 mins
-🎮 SteamVR                          🕘 7135 hrs 25 mins
+🎮 VRChat                           🕘 15885 hrs 39 mins
+🎮 SteamVR                          🕘 7143 hrs 8 mins
 🎮 OBS Studio                       🕘 486 hrs 43 mins
 🎮 Apex Legends                     🕘 485 hrs 15 mins
 🦾 Cyberpunk 2077                   🕘 26 hrs 10 mins
