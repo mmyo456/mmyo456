@@ -29,11 +29,11 @@
 <!-- steam-box start -->
 🎮 Recently played Steam games
 ```text
-🎮 VRChat                           🕘 16581 hrs 10 mins
-🎮 SteamVR                          🕘 7319 hrs 41 mins
+🎮 VRChat                           🕘 16603 hrs 32 mins
+🎮 SteamVR                          🕘 7329 hrs 48 mins
 🎮 OBS Studio                       🕘 570 hrs 42 mins
-🎮 Yakuza 0 Director's Cut          🕘 22 hrs 59 mins
-🎮 XSOverlay                        🕘 1882 hrs 36 mins
+🎮 XSOverlay                        🕘 1892 hrs 37 mins
+🎮 OVR Advanced Settings            🕘 5553 hrs 3 mins
 ```
 <!-- Powered by https://github.com/YouEclipse/steam-box . -->
 <!-- steam-box end -->
