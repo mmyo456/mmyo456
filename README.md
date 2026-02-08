@@ -29,11 +29,11 @@
 <!-- steam-box start -->
 🎮 Recently played Steam games
 ```text
-🎮 VRChat                           🕘 16735 hrs 49 mins
-🎮 EmoteLab                         🕘 94 hrs 27 mins
-🎮 SteamVR                          🕘 7350 hrs 10 mins
-🎮 XSOverlay                        🕘 1912 hrs 59 mins
-🎮 OVR Advanced Settings            🕘 5573 hrs 26 mins
+🎮 VRChat                           🕘 16759 hrs 43 mins
+🎮 EmoteLab                         🕘 113 hrs 52 mins
+🎮 SteamVR                          🕘 7352 hrs 9 mins
+🎮 XSOverlay                        🕘 1914 hrs 57 mins
+🎮 OVR Advanced Settings            🕘 5575 hrs 24 mins
 ```
 <!-- Powered by https://github.com/YouEclipse/steam-box . -->
 <!-- steam-box end -->
