@@ -29,8 +29,8 @@
 <!-- steam-box start -->
 🎮 Recently played Steam games
 ```text
-🎮 VRChat                           🕘 16864 hrs 18 mins
-🎮 EmoteLab                         🕘 166 hrs 24 mins
+🎮 VRChat                           🕘 16881 hrs 8 mins
+🎮 EmoteLab                         🕘 182 hrs 20 mins
 🎮 SteamVR                          🕘 7374 hrs 5 mins
 🎮 XSOverlay                        🕘 1914 hrs 57 mins
 🎮 OVR Advanced Settings            🕘 5575 hrs 24 mins
