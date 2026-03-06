@@ -31,11 +31,11 @@
 <!-- steam-box start -->
 🎮 Recently played Steam games
 ```text
-🎮 VRChat                           🕘 17308 hrs 26 mins
+🎮 VRChat                           🕘 17332 hrs 39 mins
+🎮 OBS Studio                       🕘 632 hrs 22 mins
 🎮 EmoteLab                         🕘 271 hrs 18 mins
-🎮 OBS Studio                       🕘 616 hrs 39 mins
 🎮 SteamVR                          🕘 7465 hrs 38 mins
-🎮 Space Calibrator                 🕘 1016 hrs 11 mins
+🎮 Resident Evil Requiem            🕘 1 hrs 44 mins
 ```
 <!-- Powered by https://github.com/YouEclipse/steam-box . -->
 <!-- steam-box end -->
