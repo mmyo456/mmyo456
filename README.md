@@ -31,8 +31,8 @@
 <!-- steam-box start -->
 🎮 Recently played Steam games
 ```text
-🎮 VRChat                           🕘 18461 hrs 0 mins
-🎮 VRCVideoCacher                   🕘 1026 hrs 7 mins
+🎮 VRChat                           🕘 18485 hrs 11 mins
+🎮 VRCVideoCacher                   🕘 1044 hrs 2 mins
 🎮 SteamVR                          🕘 7758 hrs 45 mins
 🎮 PRAGMATA                         🕘 27 hrs 43 mins
 🎮 OBS Studio                       🕘 684 hrs 14 mins
