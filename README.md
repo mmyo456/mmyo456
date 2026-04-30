@@ -31,10 +31,10 @@
 <!-- steam-box start -->
 🎮 Recently played Steam games
 ```text
-🎮 VRChat                           🕘 18505 hrs 53 mins
-🎮 VRCVideoCacher                   🕘 1064 hrs 45 mins
+🎮 VRChat                           🕘 18529 hrs 12 mins
+🎮 VRCVideoCacher                   🕘 1088 hrs 34 mins
 🎮 SteamVR                          🕘 7758 hrs 45 mins
-🎮 PRAGMATA                         🕘 27 hrs 47 mins
+🎮 PRAGMATA                         🕘 28 hrs 6 mins
 🎮 OBS Studio                       🕘 684 hrs 14 mins
 ```
 <!-- Powered by https://github.com/YouEclipse/steam-box . -->
