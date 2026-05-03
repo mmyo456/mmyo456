@@ -55,10 +55,10 @@
 
 [![](https://img.shields.io/badge/iPhone%2015%20Pro%20-Max-black?style=flat-square&logo=apple&logoColor=golden)](https://apple.com/)
 [![](https://img.shields.io/badge/iPad%20mini%206-black?style=flat-square&logo=apple&logoColor=golden)](https://apple.com/)
-[![](https://img.shields.io/badge/-26%20.4-167C80?style=flat-square&logo=ios)](https://beta.apple.com/)
+[![](https://img.shields.io/badge/-26%20.4.2-167C80?style=flat-square&logo=ios)](https://beta.apple.com/)
 
-[![](https://img.shields.io/badge/CMF%20Phone-1-black?style=flat-square&logo=android&logoColor=golden)](https://cmf.tech/)
+[![](https://img.shields.io/badge/Nothing%20Phone-2-black?style=flat-square&logo=android&logoColor=golden)](https://cmf.tech/)
 [![](https://img.shields.io/badge/OS-Android16-green?style=flat-square&logo=android)](https://www.android.com/)
-[![](https://img.shields.io/badge/NothingOS-4.0-167C80?style=flat-square&logoColor=white)](https://nothing.tech)
+[![](https://img.shields.io/badge/NothingOS-4.1-167C80?style=flat-square&logoColor=white)](https://nothing.tech)
 
 ---
