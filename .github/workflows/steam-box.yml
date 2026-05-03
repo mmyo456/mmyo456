@@ -39,6 +39,9 @@ jobs:
       - name: Commit and push
         run: |-
           ./steam
+          # 删除标题行
+          sed -i '/Recently played Steam games/d' README.md'
+          
           git config --global user.email "bot@github.com" && git config --global user.name "Steam-Bot" && git config --global pull.rebase false
           git diff
           git add README.md && git commit -m ":memo: update profile" || exit 0
