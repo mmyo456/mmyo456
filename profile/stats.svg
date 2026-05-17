@@ -9,7 +9,7 @@
         aria-labelledby="descId"
       >
         <title id="titleId">鸭鸭 &#30340; GitHub &#32479;&#35745;&#25968;&#25454;, Rank: B</title>
-        <desc id="descId">获标星数: 188, 累计提交总数  (去年) : 101, 发起的 PR 总数: 17, 提出的 issue 总数: 7, 贡献的项目数（去年）: 8</desc>
+        <desc id="descId">获标星数: 189, 累计提交总数  (去年) : 101, 发起的 PR 总数: 17, 提出的 issue 总数: 7, 贡献的项目数（去年）: 8</desc>
         <style>
           .header {
             font: 600 18px 'Segoe UI', Ubuntu, Sans-Serif;
@@ -73,7 +73,7 @@
         stroke-dashoffset: 251.32741228718345;
       }
       to {
-        stroke-dashoffset: 141.64315160626492;
+        stroke-dashoffset: 141.56951161110322;
       }
     }
   
@@ -172,7 +172,7 @@
         x="219.01"
         y="12.5"
         data-testid="stars"
-      >188</text>
+      >189</text>
     </g>
   </g><g transform="translate(0, 25)">
     <g class="stagger" style="animation-delay: 600ms" transform="translate(25, 0)">
