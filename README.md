@@ -30,9 +30,9 @@
 
 <!-- steam-box start -->
 ```text
-🎮 VRChat                           🕘 18962 hrs 28 mins
-🎮 VRCVideoCacher                   🕘 1506 hrs 45 mins
-🎮 Forza Horizon 6                  🕘 44 hrs 10 mins
+🎮 VRChat                           🕘 18986 hrs 28 mins
+🎮 VRCVideoCacher                   🕘 1530 hrs 45 mins
+🎮 Forza Horizon 6                  🕘 53 hrs 48 mins
 🎮 SteamVR                          🕘 7787 hrs 33 mins
 🎮 XSOverlay                        🕘 2143 hrs 50 mins
 ```
