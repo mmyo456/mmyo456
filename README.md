@@ -30,8 +30,8 @@
 
 <!-- steam-box start -->
 ```text
-🎮 VRCVideoCacher                   🕘 1674 hrs 24 mins
-🎮 VRChat                           🕘 19130 hrs 21 mins
+🎮 VRCVideoCacher                   🕘 1698 hrs 39 mins
+🎮 VRChat                           🕘 19154 hrs 17 mins
 🎮 Forza Horizon 6                  🕘 75 hrs 59 mins
 🎮 SteamVR                          🕘 7787 hrs 33 mins
 🎮 OBS Studio                       🕘 697 hrs 15 mins
