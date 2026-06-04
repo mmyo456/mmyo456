@@ -30,11 +30,11 @@
 
 <!-- steam-box start -->
 ```text
-🎮 VRChat                           🕘 19271 hrs 15 mins
-🎮 VRCVideoCacher                   🕘 1809 hrs 17 mins
+🎮 VRChat                           🕘 19292 hrs 58 mins
+🎮 VRCVideoCacher                   🕘 1823 hrs 8 mins
 🎮 Forza Horizon 6                  🕘 77 hrs 28 mins
-🎮 OBS Studio                       🕘 704 hrs 10 mins
-🎮 SteamVR                          🕘 7795 hrs 14 mins
+🎮 SteamVR                          🕘 7801 hrs 29 mins
+🎮 XSOverlay                        🕘 2157 hrs 40 mins
 ```
 <!-- Powered by https://github.com/YouEclipse/steam-box . -->
 <!-- steam-box end -->
