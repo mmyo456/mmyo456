@@ -30,8 +30,8 @@
 
 <!-- steam-box start -->
 ```text
-🎮 VRChat                           🕘 19584 hrs 5 mins
-🎮 VRCVideoCacher                   🕘 2073 hrs 45 mins
+🎮 VRChat                           🕘 19606 hrs 28 mins
+🎮 VRCVideoCacher                   🕘 2096 hrs 0 mins
 🎮 SteamVR                          🕘 7819 hrs 47 mins
 🎮 OVR Advanced Settings            🕘 5843 hrs 11 mins
 🎮 Space Calibrator                 🕘 1230 hrs 23 mins
