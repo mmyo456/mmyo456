@@ -30,7 +30,7 @@
 
 <!-- steam-box start -->
 ```text
-🎮 VRChat                           🕘 19678 hrs 12 mins
+🎮 VRChat                           🕘 19702 hrs 5 mins
 🎮 VRCVideoCacher                   🕘 2163 hrs 38 mins
 🎮 EmoteLab                         🕘 526 hrs 26 mins
 🎮 SteamVR                          🕘 7824 hrs 52 mins
