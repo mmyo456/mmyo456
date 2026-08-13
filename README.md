@@ -22,7 +22,7 @@
 
 ![Top Langs](profile/top-langs.svg)
 
-[![trophy](https://gh-trophy.cdnsoft.net/?username=mmyo456)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-repo.vercel.app/?username=mmyo456)](https://github.com/ryo-ma/github-profile-trophy)
 
 ---
 
