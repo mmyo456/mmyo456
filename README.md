@@ -30,10 +30,10 @@
 
 <!-- steam-box start -->
 ```text
-🎮 VRChat                           🕘 21664 hrs 16 mins
-🎮 VRCVideoCacher                   🕘 3656 hrs 15 mins
-🎮 SteamVR                          🕘 8204 hrs 52 mins
+🎮 VRChat                           🕘 21682 hrs 3 mins
+🎮 VRCVideoCacher                   🕘 3679 hrs 55 mins
 🎮 OBS Studio                       🕘 998 hrs 9 mins
+🎮 SteamVR                          🕘 8204 hrs 52 mins
 🎮 fpsVR                            🕘 121 hrs 2 mins
 ```
 <!-- Powered by https://github.com/YouEclipse/steam-box . -->
